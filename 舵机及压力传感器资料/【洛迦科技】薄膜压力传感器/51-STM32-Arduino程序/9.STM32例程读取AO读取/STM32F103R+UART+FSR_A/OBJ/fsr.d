@@ -1,0 +1,15 @@
+..\OBJ\fsr.o: ..\MyCode\FSR\FSR.c
+..\OBJ\fsr.o: ..\USER\stm32f10x.h
+..\OBJ\fsr.o: ..\CORE\core_cm3.h
+..\OBJ\fsr.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\fsr.o: ..\USER\system_stm32f10x.h
+..\OBJ\fsr.o: ..\USER\stm32f10x_conf.h
+..\OBJ\fsr.o: ..\STM32_FWLIB\inc\stm32f10x_adc.h
+..\OBJ\fsr.o: ..\USER\stm32f10x.h
+..\OBJ\fsr.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\OBJ\fsr.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\OBJ\fsr.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\OBJ\fsr.o: ..\STM32_FWLIB\inc\misc.h
+..\OBJ\fsr.o: ..\MyCode\FSR\FSR.h
+..\OBJ\fsr.o: ..\SYSTEM\sys\sys.h
+..\OBJ\fsr.o: ..\SYSTEM\delay\delay.h

@@ -1,0 +1,15 @@
+..\OBJ\adc.o: ..\MyCode\ADC\adc.c
+..\OBJ\adc.o: ..\MyCode\ADC\adc.h
+..\OBJ\adc.o: ..\SYSTEM\sys\sys.h
+..\OBJ\adc.o: ..\USER\stm32f10x.h
+..\OBJ\adc.o: ..\CORE\core_cm3.h
+..\OBJ\adc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\adc.o: ..\USER\system_stm32f10x.h
+..\OBJ\adc.o: ..\USER\stm32f10x_conf.h
+..\OBJ\adc.o: ..\STM32_FWLIB\inc\stm32f10x_adc.h
+..\OBJ\adc.o: ..\USER\stm32f10x.h
+..\OBJ\adc.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\OBJ\adc.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\OBJ\adc.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\OBJ\adc.o: ..\STM32_FWLIB\inc\misc.h
+..\OBJ\adc.o: ..\SYSTEM\delay\delay.h
