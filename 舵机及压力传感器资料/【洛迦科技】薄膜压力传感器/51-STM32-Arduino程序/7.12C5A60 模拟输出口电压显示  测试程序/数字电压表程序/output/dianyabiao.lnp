@@ -1,3 +1,0 @@
-"..\output\dianyabiao.obj" 
-TO "..\output\dianyabiao" 
-PRINT("..\output\dianyabiao.m51") RAMSIZE(256) 
